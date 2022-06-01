@@ -7,3 +7,5 @@ images:
     digest: sha256:43bb976f71a3d2c5a6091f8017e3f0fd3661d8af9c3b75c3b0d6e01d3bbb7127
   - name: quay.io/rhoas/cos-fleetshard-sync
     digest: sha256:059605dd01807a113fdc9a77d252d729a74a8ea52ea06b7c0e27b10444a0b750
+  - name: quay.io/strimzi/operator
+    digest: ""
